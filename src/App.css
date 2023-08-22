@@ -1,0 +1,4 @@
+textarea::placeholder {
+  color: #116ec6;
+  opacity: 1;
+}
